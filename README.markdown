@@ -45,9 +45,6 @@ The abstract operation ToInteger converts argument to an integral numeric value.
 
 A Number value is returned.
 
-`NaN` (Not-a-Number) counts as a "number" type and is returned if the value
-could not be converted.
-
 A `TypeError` exception may be thrown for arguments that are Symbols or Objects
 that lack a `valueOf` method or a `toString` method capable of returning a 
 non-object value.

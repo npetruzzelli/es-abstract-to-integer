@@ -1,6 +1,6 @@
 {
   "name": "es-abstract-to-integer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A method to convert the argument to an integral numeric value. This method follows ECMAScript's specification for the 'ToInteger' abstract operation.",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,6 @@
     "toInteger",
     "to integer",
     "integer",
-    "properties",
     "ECMAScript",
     "ES",
     "ecma",
