@@ -1,6 +1,6 @@
 {
   "name": "es-abstract-to-integer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A method to convert the argument to an integral numeric value. This method follows ECMAScript's specification for the 'ToInteger' abstract operation.",
   "main": "lib/index.js",
   "directories": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:npetruzzelli/es-abstract-has-property.git"
+    "url": "git@github.com:npetruzzelli/es-abstract-to-integer.git"
   },
   "keywords": [
     "ToInteger",
